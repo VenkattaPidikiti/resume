@@ -22,7 +22,7 @@ resume_contact_address:         "742 Evergreen Terrace, Springfield"
 
 resume_header_contact_info:     "Hyderabad,India • 555-7334 •venkatta@outlook.com"
 display_header_contact_info:    "false"
-# display_header_contact_info:    "false"
+display_footer:    "false"
 
 resume_header_intro: "<p>Accomplished technology leader with a proven track record of delivering high-impact solutions for Fortune 500 companies. Expertise in managing complex projects, transformations, building strategic partnerships, and exceeding client expectations. Skilled in leading crossfunctional teams to implement innovative solutions that achieve significant revenue growth and business alignment.</p>"
 
