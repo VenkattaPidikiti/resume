@@ -1,5 +1,5 @@
 # Site settings
-title: "Jekyll Resume Template"
+title: "Venkata RaviKumar Pidikiti"
 description: "A resume template for Jekyll and GitHub Pages sites."
 
 # Build settings
@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Venkata RaviKumar Pidikiti"
-resume_title:                   "Enterprise Architect"
+resume_title:                   "Driving Revenue Growth | Experienced Enterprise Architect & Program Manager | Agile & Cloud Solutions Expert | Actively Seeking Immediate Opportunities"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "venkatta@outlook.com"
